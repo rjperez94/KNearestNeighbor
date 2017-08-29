@@ -17,3 +17,7 @@
 2. Program will ask for directory of where the text files are
 3. Choose `data` directory
 4. Program will look for "iris-training.txt", and "iris-test.txt" inside that chosen folder i.e. in `data` directory
+
+## Notes
+
+This program also has `KMeansClustering`. Run this by right clicking on your `Java Project` --> `Run As` --> `Java Application` --> `KMeansClustering`
