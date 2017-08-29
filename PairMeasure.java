@@ -1,5 +1,3 @@
-package part1;
-
 public class PairMeasure {
 	public final Iris iris;
 	public double value;

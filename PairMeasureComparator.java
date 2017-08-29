@@ -1,5 +1,3 @@
-package part1;
-
 import java.util.Comparator;
 
 public class PairMeasureComparator implements Comparator <PairMeasure> {

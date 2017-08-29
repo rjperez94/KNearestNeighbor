@@ -1,5 +1,3 @@
-package part1;
-
 public class Iris {
 	double sepallen;
 	double sepalwid;
