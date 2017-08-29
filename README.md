@@ -21,6 +21,7 @@
 
 This program also has `KMeansClustering`. Run this by right clicking on your `Java Project` --> `Run As` --> `Java Application` --> `KMeansClustering`
 
+## About the Data Files
 The iris data set is taken from the UCIMachine Learning Repository <a href='http://mlearn.ics.uci.edu/MLRepository.html'>here</a>. The  data set contains 3 classes of 50 instances each, where each class refers to a type of `iris` plant. There are four numeric attributes:
 
 - sepal length in cm
