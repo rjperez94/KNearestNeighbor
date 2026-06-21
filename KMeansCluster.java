@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Adapted from http://www.dataonfocus.com/k-means-clustering-java-code/
- * @author josh
+ * @author Ron Perez
  *
  */
  
